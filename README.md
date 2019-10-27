@@ -5,7 +5,7 @@ whether messages are spam or ham.
 
 For the code tutorial, visit my blog [here](https://hritikattri10.wordpress.com/2019/10/12/feature-extraction-using-tf-idf-algorithm/).
 
-# Topic Modelling using Latent Dirichlet Allocation in Scikit-Learn
+# Topic Modeling using Latent Dirichlet Allocation in Scikit-Learn
 
 Latent Dirichlet Allocation(LDA) is an unsupervised learning algorithm. Here, it is used to extract topics(with keywords) from unlabeled documents.
 
